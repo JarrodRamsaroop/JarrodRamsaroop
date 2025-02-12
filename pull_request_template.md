@@ -1,9 +1,27 @@
-## Describe your changes
+**Link for the ticket**
 
-## Issue ticket number and link
+**Meaningful description**
 
-## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+## Fix
+
+**Describe the problem**
+
+**Describe the cause**
+
+**Describe the fix**
+
+## Feature
+
+**Explain the feature and what will change**
+
+**Images in case of front-end changes/fixes**
+
+## Step to reproduce and test fix/feature
+
+**Complex tasks (mandatory)**
+**Quick fix (optional)**
+
+## Release Checklist
+- [ ] Migration
+- [ ] Rake
+- [ ] Hotfix
